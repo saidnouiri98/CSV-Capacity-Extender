@@ -1,0 +1,5 @@
+{
+  "name": "CSV Employee Capacity Extender",
+  "description": "A tool to process employee capacity CSV files, identifying the latest entry for each individual and projecting it to a new selected month.",
+  "requestFramePermissions": []
+}
